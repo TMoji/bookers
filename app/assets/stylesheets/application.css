@@ -23,3 +23,27 @@ background-color: #fff;
     margin: 33px;
 }
 
+a:visisted{
+    color: #666;
+    }
+    
+#notice{
+    color: green
+}
+
+p,ol,ul,td{
+    font-family: verdana, arial, helvetica, sans-serif;
+    font-size: 13px;
+    line-height: 18px;
+    margin: 33px;
+    }
+    
+table{
+    display: table;
+    border-collapse: separate;
+    box-sizing: border-box;
+    text-indent: initial;
+    border-spacing: 2px;
+    border-color: grey;
+    }
+    
